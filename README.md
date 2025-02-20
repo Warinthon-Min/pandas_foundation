@@ -1,5 +1,5 @@
 # pandas_foundation
-[visit my pandas project at dalore](https://datalore.jetbrains.com/report/static/RtoCtJczj7vvHOuQVuh2eE/lwQzMbyGOHKL3RmXcnU9in)
+[visit my pandas project at datalore](https://datalore.jetbrains.com/report/static/RtoCtJczj7vvHOuQVuh2eE/lwQzMbyGOHKL3RmXcnU9in)
 ## Final Project - Analyzing Sales Data
 This project demonstrates the use of Python and Pandas for analyzing sales data. The dataset used contains detailed sales transactions, and various analyses have been performed to extract insights on sales performance, profit trends, and state-wise statistics.
 
