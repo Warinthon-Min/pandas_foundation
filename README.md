@@ -1,4 +1,5 @@
 # pandas_foundation
+[visit my pandas project at dalore](https://datalore.jetbrains.com/report/static/RtoCtJczj7vvHOuQVuh2eE/lwQzMbyGOHKL3RmXcnU9in)
 ## Final Project - Analyzing Sales Data
 This project demonstrates the use of Python and Pandas for analyzing sales data. The dataset used contains detailed sales transactions, and various analyses have been performed to extract insights on sales performance, profit trends, and state-wise statistics.
 
@@ -24,7 +25,7 @@ Sales data stored in a CSV file containing columns like Order ID, Order Date, Pr
 - Plotting of top states by average sales.
 
 ## Files:
-sample-store.csv: Sales transaction data
-df_California.csv: Filtered data for California
-df_2017_sales.csv: Sales data for the year 2017
-[visit my pandas project at dalore](https://datalore.jetbrains.com/report/static/RtoCtJczj7vvHOuQVuh2eE/lwQzMbyGOHKL3RmXcnU9in)
+- sample-store.csv: Sales transaction data
+- df_California.csv: Filtered data for California
+- df_2017_sales.csv: Sales data for the year 2017
+
